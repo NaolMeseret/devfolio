@@ -104,11 +104,11 @@ const Contact = () => {
             <h3>Get in touch</h3>
             <div className="contact-method">
               <i className="bx bx-envelope"></i>
-              <span>naol.meseret@email.com</span>
+              <span>naolmes15062015@gmail.com</span>
             </div>
             <div className="contact-method">
               <i className="bx bx-phone"></i>
-              <span>+251 XXX XXX XXX</span>
+              <span>+25197521137</span>
             </div>
             <div className="contact-method">
               <i className="bx bx-map"></i>
