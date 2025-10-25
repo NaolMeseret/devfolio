@@ -135,7 +135,6 @@ const Hero = () => {
           {/* Main heading with enhanced typing animation */}
           <h1 className="am-naol">
             <span className="typing-animation">{displayText}</span>
-            {isTypingComplete && <span className="cursor">|</span>}
           </h1>
 
           {/* Animated titles */}
