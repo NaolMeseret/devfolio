@@ -44,7 +44,7 @@ const Projects = () => {
       name: "Oromo Artisan & Storyteller Marketplace",
       description:
         "A modern, multilingual web platform to discover, support, and celebrate Oromo culture through artisan crafts and oral storytelling.",
-      image: "/images/publicS.jpg",
+      image: "/images/oromo-artisan.jpg",
       technologies: ["HTML", "CSS", "Javascript", "PHP", "MySQL"],
       github:
         "https://github.com/NaolMeseret/Oromo-Artisan-and-Storyteller-Marketplace",
