@@ -9,7 +9,7 @@ const About = () => {
     setIsExpanded(!isExpanded)
   }
 
-  const fullText = `Hi, I'm Naol Meseret, a passionate full-stack developer and software engineer. I focus on software design, cybersecurity, and networking, dedicated to creating secure and scalable web applications. My journey began with a fascination for coding, leading me to explore both front-end and back-end technologies. Currently, I'm enhancing my skills in software design principles as I study Software Engineering at Jimma University. I thrive on collaboration and seek to work on innovative web development projects that blend modern design with robust functionality.`
+  const fullText = `Hi, I’m Naol Meseret, a passionate Software Engineering student who loves turning ideas into functional and beautiful software. I specialize in web development and enjoy exploring new technologies to build projects that are both practical and innovative. I’m always learning, experimenting, and pushing myself to create solutions that make a real impact. My goal is to craft software that not only works seamlessly but also leaves a lasting impression.`
 
   const displayText = isExpanded ? fullText : fullText.slice(0, 200) + "..."
 

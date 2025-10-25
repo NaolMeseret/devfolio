@@ -15,7 +15,8 @@ const Skills = () => {
     { name: "PHP", icon: "/images/php.png", level: 75 },
     { name: "Git", icon: "/images/git.svg", level: 90 },
     { name: "Node", icon: "/images/node.jpg", level: 60 },
-    { name: "Flutter", icon: "/images/flutter.png", level: 60 },
+    { name: "Flutter", icon: "/images/flutter.png", level: 65 },
+    { name: "Postman", icon: "/images/postman.png", level: 70 },
   ]
 
   return (
